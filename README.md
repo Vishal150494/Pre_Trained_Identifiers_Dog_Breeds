@@ -41,14 +41,14 @@ Below are 10 of them:
  9 key:               Poodle_07956.jpg  label:                     poodle
 10 key:                     cat_02.jpg  label:                        cat
 
-N Images            :  40
-N Dog Images        :  30
-N Not-Dog Images    :  10
-pct_match 87.5
-pct_correct_dogs 100.0
-pct_correct_breed 93.33333333333333
-pct_correct_notdogs 100.0
+- N Images            :  40
+- N Dog Images        :  30
+- N Not-Dog Images    :  10
+- pct_match 87.5
+- pct_correct_dogs 100.0
+- pct_correct_breed 93.33333333333333
+- pct_correct_notdogs 100.0
 
 INCORRECT Dog Breed Assignment:
-Real:             great pyrenees   Classifier:                         kuvasz
-Real:                     beagle   Classifier:  walker hound, walker foxhound
+- Real:             great pyrenees   Classifier:                         kuvasz
+- Real:                     beagle   Classifier:  walker hound, walker foxhound
